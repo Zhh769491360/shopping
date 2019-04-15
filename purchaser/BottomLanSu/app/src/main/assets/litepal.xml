@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="UserBuy"></dbname>
+    <version value="15"></version>
+    <list>
+        <mapping class="com.example.pc.bottomlansu.Buying"></mapping>
+        <mapping class="com.example.pc.bottomlansu.App"></mapping>
+        <mapping class="com.example.pc.bottomlansu.User"></mapping>
+    </list>
+</litepal>
+

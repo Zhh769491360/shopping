@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BottomLanSu</string>
+    <string name="title_home" size="20dp">主页</string>
+    <string name="title_dashboard">购物车</string>
+    <string name="title_notifications">小功能</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">打开新世界的大门</string>
+    <string name="title_activity_finish_buy">详情确定</string>
+    <string name="title_activity_login">login</string>
+</resources>

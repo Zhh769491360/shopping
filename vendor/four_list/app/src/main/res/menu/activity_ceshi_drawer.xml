@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_return_login"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="返回登录" />
+
+    </group>
+
+    <item android:title="管理">
+        <menu>
+            <item
+                android:id="@+id/nav_manage_people"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="个人信息管理" />
+            <item
+                android:id="@+id/nav_manage_commodity"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="商品信息管理" />
+            <item
+                android:id="@+id/nav_manage_trade"
+                android:icon="@drawable/ic_menu_send"
+                android:title="交易信息管理" />
+        </menu>
+    </item>
+
+</menu>
